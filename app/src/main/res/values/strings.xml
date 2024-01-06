@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">fin_pro</string>
+    <integer-array name="fin_pro">
+        <item>@drawable/training</item>
+        <item>@drawable/cv</item>
+        <item>@drawable/email</item>
+        <item>@drawable/favorites</item>
+        <item>@drawable/filter</item>
+        <item>@drawable/home</item>
+        <item>@drawable/idcard</item>
+        <item>@drawable/major</item>
+        <item>@drawable/padlock</item>
+        <item>@drawable/person</item>
+        <item>@drawable/phonecall</item>
+        <item>@drawable/user</item>
+        <item>@drawable/star</item>
+    </integer-array>
+</resources>
